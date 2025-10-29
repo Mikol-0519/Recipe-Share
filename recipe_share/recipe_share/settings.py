@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-3&_a$cbcexg#i-h4a83vakkx0lr&x+e3oofk*lkt%4r^9e(@)w
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["recipeshare-7dfy.onrender.com",]
 
 
 # Application definition
